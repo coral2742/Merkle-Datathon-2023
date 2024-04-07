@@ -1,4 +1,13 @@
-# Datathon 2023
+# Merkle Datathon 2023
+En esta Datathon organizada por [Merkle España](https://www.linkedin.com/company/merkle-espa%C3%B1a/), hemos analizado datos reales de audiencia televisiva, clima y movilidad mostrando nuestros resultados y además, realizamos un modelo predictivo de series temporales con SARIMAX para obtener una predicción de la audiencia en Asturias 📊📺
+
+## Grupo 1
+- Jaime Beltrán - [LinkedIn](https://www.linkedin.com/in/jaime-beltr%C3%A1n-garc%C3%ADa-su%C3%A1rez-286aa21b0/)
+- Claudio Díez
+- Coral Izquierdo - [GitHub](https://github.com/coral2742) [LinkedIn](https://www.linkedin.com/in/coral-izquierdo)
+- Daniel López - [GitHub](https://github.com/Bimo99B9) [LinkedIn](https://www.linkedin.com/in/daniel-lopezgala/)
+
+## Presentación
 
 ![Page 1](assets/Datathon-2023_page-0001.jpg)
 
